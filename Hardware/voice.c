@@ -1,0 +1,11 @@
+const char dis[][32]={"当前的距离是","厘米"};
+const char avoid[][32]={"避障模式","一","二","三"};
+const char safe[][32]={"左前方无障碍，左转","右前方无障碍，右转"};
+const char safedis[][32]={"安全距离,","三十","六十","一百","一百五十","厘米"} ;
+const char goup[][32]={"上坡,请注意"};
+const char weather[][32]={"温度：","摄氏度","相对湿度：","百分之"};
+const char light[][32]={"亮度过低，打开照明","关闭照明"};
+const char bluetooth[][32]={"蓝牙连接","蓝牙断开"};
+const char person[][32]={"有","无"};
+const char crash[][32]={"碰撞，小心"};
+const char move[][32]={"前进","左转","右转","停止","后退","前方有障碍，注意"};
